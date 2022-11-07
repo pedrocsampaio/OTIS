@@ -26,9 +26,7 @@ body {
 a {
     display: inline-block;
     margin: 25px 10px;
-    padding: 10px;
-    padding-right: 40%;
-    padding-left: 40%;
+    padding: 10px 280px;
     background: #0d0f97;
     color: #fff;
     font-weight: 500;
@@ -37,17 +35,12 @@ a {
     border-radius: 40px;
     margin-top: 33px;
     margin-bottom: 33px;
-    white-space: nowrap;
 }
 
 div {
-    display: block;
     margin: 45px 293px;
-    margin-top:5%;
-    margin-left: 20%;
-    margin-right: 20%;
     height: 120px;
-    padding: 43px 30px;
+    padding: 43px 25px;
     text-align: center;
     background: #ffffff;
     color: rgb(10, 0, 56);
