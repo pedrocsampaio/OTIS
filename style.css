@@ -141,9 +141,8 @@ header .navegation li a{
 
 .IMG2 {
     position: relative;
-    margin-top: 68%;
-    margin-left: 130%;
-
+    right: -75%;
+    bottom: -15%;
 }
 
 .IMG2 img {
@@ -153,8 +152,8 @@ header .navegation li a{
 .IMG3 {
     position: relative;
     width: 90%;
-    margin-top: 250%;
-    margin-right: 110%;
+    right: 30%;
+    bottom: -58%;
 }
 
 .IMG3 img{
