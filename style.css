@@ -127,6 +127,7 @@ header .navegation li a{
 .IMG {
     position: absolute;
     width: 45%;
+    bottom: 13%;
     right: -16%;
     bottom: -3px;
     transform: perspective(7.5cm) rotateX(0deg) rotateY(354.5deg);
@@ -139,20 +140,22 @@ header .navegation li a{
 }
 
 .IMG2 {
-    position: absolute;
-    right: -439px;
-    bottom: 682px;
+    position: relative;
+    width: 90%;
+    margin-top: 68%;
+    margin-left: 100%;
+
 }
 
 .IMG2 img {
-    width: 120%;
+    width: 300px;
 }
 
 .IMG3 {
-    position: absolute;
-    right: -469px;
-    bottom: 188px;
-    box-shadow: 0px 0px 0px darkblue;
+    position: relative;
+    width: 90%;
+    margin-top: 250%;
+    margin-right: 110%;
 }
 
 .IMG3 img{
